@@ -1,5 +1,5 @@
 /*
-Name: Linn
+Name: Dom
 Description: Software switch debouncer using the MSP430 Micro-controller
 */
 
@@ -32,4 +32,5 @@ int main(void)
         }
   }
 }
+
 
